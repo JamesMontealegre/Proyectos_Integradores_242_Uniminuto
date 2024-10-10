@@ -1,2 +1,1 @@
-# UNIMNUTO-FPOO-PROJECT-2024-2
-This is a repository for my students of POO Fundamentals at Uniminuto
+This is a repository for my students of POO and Data structures Fundamentals at Uniminuto
